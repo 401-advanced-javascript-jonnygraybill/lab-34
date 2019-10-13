@@ -14,10 +14,10 @@
 
 ### Components
 #### createServiceWorker.js
-#### context
-#### if
-#### modal
 #### todo
+#### if
+#### counter
+#### auth
 
 ## Running the App/Available Scripts
 
